@@ -1,0 +1,41 @@
+body{
+
+    color:blue;
+    background: orange;
+    font-size:14px;
+    margin-top:20px;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+h1{text-decoration: underline;
+    color: brown;
+    padding:20px;
+    font-size:20px;
+    text-align:center;
+
+
+}
+
+
+
+
+#bio-image
+{
+    display: block;
+margin-left: 50px;
+float: left;
+
+}
+
+#main-bio
+{
+    width:60px;
+    float: right;
+}
+a{
+    color:pink;
+}
+.nugget {
+    float:right;
+}
+    
